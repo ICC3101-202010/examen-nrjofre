@@ -1,0 +1,7 @@
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\bin\Debug\Examen.exe.config
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\bin\Debug\Examen.exe
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\bin\Debug\Examen.pdb
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\obj\Debug\Examen.exe
+D:\Documentos\GitHub\examen-nrjofre\Examen\Examen\obj\Debug\Examen.pdb
