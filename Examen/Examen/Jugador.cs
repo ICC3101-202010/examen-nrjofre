@@ -8,11 +8,11 @@ namespace Examen
 {
     class Jugador : Persona
     {
-        int PAtaque;
-        int PDefensa;
-        int NumeroC;
-        bool Arquero;
-        bool Lesionado;
+        public int PAtaque;
+        public int PDefensa;
+        public int NumeroC;
+        public bool Arquero;
+        public bool Lesionado;
 
         public Jugador(string nombre, int edad, string nacionalidad, int sueldo, int PAtaque, int PDefensa, bool arquero)
         {
